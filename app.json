@@ -7,8 +7,8 @@
         "merge",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/VideoMerge-Bot",
-    "website": "https://telegram.dog/AbirHasan2005",
+    "repository": "https://github.com/Suhail1626/VideoMerge-Bot",
+    "website": "https://github.com/Suhail1626/VideoMerge-Bot",
     "success_url": "https://t.me/AH_VideoMergeBot",
     "env": {
         "API_ID": {
@@ -72,7 +72,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
